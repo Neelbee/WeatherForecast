@@ -1,2 +1,2 @@
 # WeatherForecast
-WeatherForecasting website Using Front end Dev
+WeatherForecasting website Using Frontend Technology
